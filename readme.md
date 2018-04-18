@@ -21,7 +21,7 @@ Según sus requerimientos la página debe:
 - Dar enfásis a la compra de sus productos
 - Mostrar el logo de la empresa
 
-El diseñador del mockup envío una [guía de estilos](img/tiatomate-guia-de-estilos.png) con las imágenes, colores y fuentes que usó para crear esta representación visual (puedes encontrar los assets en el siguiente [link](assets)).
+El diseñador del mockup envío una [guía de estilos](img/tiatomate-guia-de-estilos.png) con las imágenes, colores y fuentes que usó para crear esta representación visual (puedes encontrar los assets en el siguiente [link](../assets)).
 
 Además, ellos comentan que crearán el contenido de su página web con la persona encargada de mantener sus redes sociales. 
 
